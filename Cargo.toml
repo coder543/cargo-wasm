@@ -1,0 +1,9 @@
+[package]
+authors = ["Josh Leverette <coder543@gmail.com>"]
+name = "cargo-wasm"
+version = "0.1.0"
+
+[dependencies]
+cargo = "0.23.0"
+structopt = "0.1.6"
+structopt-derive = "0.1.6"
